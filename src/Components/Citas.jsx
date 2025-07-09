@@ -209,7 +209,7 @@ function ViewVista() {
                 </form>
             </div>
           </div>
-      {/*Session de maps */}
+      {/*Session de maps*/}
       <div style={{ width: "100%", height: "400px" }}>
       <iframe
         title="Ubicación en Google Maps"
